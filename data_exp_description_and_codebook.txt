@@ -1,0 +1,141 @@
+Methods and Codebook: data_exp.csv
+
+CONTENTS:
+* INTRODUCTION
+* METHODOLOGY
+* VARIABLES AND VALUES
+
+
+INTRODUCTION
+
+This is a codebook for 4 photo sorting experiments conducted in southwestern Madagascar in 2019.  The purpose of the experiments was to discover whether Masikoro, Mikea, and Vezo people can actually tell one another apart according to their dress, and to discover whether they prefer to cooperate with those of their same ethnicity.  For more details, see:
+
+Tucker, B., Ringen, E., Tsiazonera, Tombo, J., Hajasoa, P., Gérard, S., Garçon, A. H., & Lahiniriko, R. (accepted, 18 Oct 2020).  Ethnic markers without ethnic conflict:  Why do interdependent Masikoro, Mikea, and Vezo of Madagascar signal their ethnic differences?  Human Nature.
+
+METHODOLOGY
+
+Overview
+
+We asked 178 adults in six villages to classify photos of unfamiliar southwestern Malagasy people by either ethnicity (experiments 1-3), or by with whom they would, or would not, choose to cooperate (experiment 4).  For clarity, we refer to the research participants who classified the photos as the judges, and the individuals pictured in the photos as the alters.  
+
+To test whether southwestern Malagasy can classify photos of unfamiliar alters by ethnicity at better-than-guessing success rates (prediction 1), experiment 1 presents judges with photos of alters dressed in their everyday clothes.  
+
+To test whether judges could classify photos by ethnicity with greater success when alters purposively signal their ethnicity (prediction 2), experiment 2 used photos in which alters were specifically instructed to pose as member of their ethnicity.  
+
+To test whether southwestern Malagasy mark more distinctly when visiting sites of inter-ethnic coordination (prediction 3), in experiment 3, judges sorted images of alters who were photographed on market day.  
+
+To test whether judges would prefer to cooperate with co-ethnies in an unfamiliar scenario (prediction 4), in experiment 4, we presented judges with a novel cooperative labor vignette, then asked them to sort photos by whom they would most, and least, want to work with.
+
+To minimize the chance that judges might see photographed alters that they knew personally, in which case their judgment of ethnicity or trust would be based on personal knowledge rather than visible markers, we showed judges in three northern villages photos of alters from distant southern villages, and vice versa.  The northern villages (Bevondrorano, Antaimbalabo, Beangolo) and the southern villages (Andravitsazo, Ankililoake, Faramasay) are separated by 65 - 85 km.  
+ 
+Photographs
+
+Prior to taking all photos, we explained the research objectives and asked alters for their consent.   All photographed alters received a small cash 
+gift and a copy of their photos.
+
+The photos used in experiments 1, 2, and 4 were taken in the northern villages of Antaimbalabo (Masikoro), Bevondrorano (Mikea), and Beangolo (Vezo), and the southern villages of Ankililoake (Masikoro), Andravitsazo (Mikea), and Faramasay (Vezo) (Figure 1).  At each site we photographed roughly 30 adult volunteer alters.  We asked each alter to pose for two photos.  In the first pose (used in experiments 1 and 4), alters posed as they were, in the clothes they were wearing at the moment we announced the photo shoot; they were instructed to stand upright against a neutral background (a satin sheet), without holding any objects.  For the second pose (used in experiment 2), we asked alters to pose like a member of their ethnic group.  Alters rearranged their clothes and their posture and held objects they felt symbolized their ethnicity.  
+
+For experiment 3, we recruited alters on market day in the marketplaces of Vorehe (north) and Antsianisiha (south).  On market day, a local confident invited a sample of 30 attendees to be photographed.  They were photographed carrying whatever objects they had in hand at time of recruitment, including baskets, gunny sacks, an empty rum bottle, a live chicken, etc. 
+
+For experiments 1 and 2, we selected eight photos to represent the people from each site.  We first eliminated from consideration unclear photos, photos of people with obvious developmental problems (e.g., microcephaly), alcoholics (who looked particularly weathered and poorly dressed due to their disease), and alters who responded that were not a member of the dominant ethnicity of the village.  Then we coded the remaining photos according to the presence or absence of traits such as sex, clothing, hairstyle, objects in hand, body shape, etc.  Then we selected the combination of four photos of women and four of men whose trait frequency best matched that of the total sample of photos from the site.
+
+For the marketplace photos used in experiment 3, we ended up with few photos of Vezo at the Vorehe market in the north, and no photos of Mikea from the Antsianisiha market in the south.  We reframed this experiment as a choice among two ethnicities.  In both cases, once we eliminated the few pictures of underrepresented ethnicities, plus unclear photos, photos of alcoholics, etc., we were left with 22 photos for use in the experiments.
+
+To disguise subtle differences in background lighting among sites, we digitally replaced the backgrounds with white using Adobe Photoshop.  Additional digital editing was necessary to make legible the facial featured of dark-skinned alters photographed in low light.  All images were printed on 10 x 16 cm glossy photographic paper in Madagascar.
+
+Experimental procedures
+
+We conducted the experiments several months after the photographs were taken.  Before the experiment, we obtained the individual’s consent, and recorded their name and demographic description.  We recorded sex because judges of one sex could be more adept at recognizing alters of their own or the opposite sex.  We recorded age, education, and religious status (whether the person is a Christian or a traditional specialist such as a diviner, spirit medium, medium’s assistant, or clan head) anticipating that judges with more traditional values (older, less educated, non-Christian, traditional specialist) could be more invested in traditional ethnic categories contrasted to more cosmopolitan judges.  
+
+Experimenters randomly selected 18 photos for use in each experiment, from an envelope containing either 24 photos in experiments 1, 2, and 4, or 22 photos from experiment 3.  The selection of 18 out of 22 or 24 photos meant that the actual number of Masikoro, Mikea, or Vezo to be identified was unpredictable, to discourage judges from classifying to fill preconceived quotas (e.g., one third Mikea, etc).
+
+The experimenters started by randomly pulling each photo from the envelope and presenting it to the judge.  The judge was asked to take a good look at the photo, and to indicate whether she knew the alter.  This action served double duty: it allowed us to eliminate photos of familiar alters (in which case we selected replacement photos from the envelope), and it ensured that judges attentively examined each photo.  
+
+All 18 photos were then placed before the judge in three rows.  For experiments 1 and 2, we then we asked the judge to classify the photos into three piles, one for Masikoro, one for Mikea, and one for Vezo.  In experiment 3, judges were instructed to classify the images into two piles: either Masikoro versus Mikea for photos from Vorehe, or Masikoro versus Vezo for photos from Antsianisiha.  Once this sorting task was completed, the researchers asked the judge to look through each pile of photos and discuss the criteria upon which they classified the photos.  
+
+In experiment 4, judges were asked to classify photos by who they would rather (and rather not) work alongside in the following unfamiliar migratory wage labor vignette: 
+
+"In the Volirano region, a Chinese man is looking to hire a lot of people to build a building in less than two weeks.  He won’t hire individuals.  He will only hire teams of six.  The teams will do various kinds of work, from construction [traditionally men’s work] to cooking [traditionally women’s work].  Because you will not know what kind of work your team will be assigned to do until you get there, each team should include an even mix of men and women.  The Chinese employer pays a good salary to everyone.  But whichever team cooperates the best will receive double salary, and whichever team cooperates the worst will receive half salary.  
+
+"Look at the photos of persons presented to you.  Choose five people who you would most like to have on your team.  You should choose people whom you can trust.  Choose people you would trust to work well together, so that you may win the double salary.  Keep in mind that you will have to travel far with this team.  Don’t pick bad people who won’t work well together, or who may steal your money on the way home."
+
+The vignette takes place in the Volirano Region (the Mangoky River delta), 84-170 km from the research sites, because this is an agriculturally-rich area to which southwestern Malagasy have historically migrated to do wage labor.  We specified that the employer is Chinese (at the risk of inflaming local prejudices) because in popular narratives, wealthy Chinese entrepreneurs are hiring and building ambitiously, using unfamiliar hiring practices (in this case, hiring teams rather than individuals).  We specified that workers will do an unknown mix of tasks, to discourage judges from choosing team members according to perceived strength, intelligence, gender, etc., and to encourage them to assemble a team they can trust (fahatokisa) with a capacity to cooperate (miara miasa).  Because travel to the Volirano region takes multiple days, we emphasized that the team must work well together on the road as well as on the worksite.
+
+After the judge chose five photos of people she wanted on her team, we then asked her to select five from among the remaining photos that she would least want to have on her team.  Finally, we asked the participant to explain why she thought the people in the photos were either trustworthy/cooperative or not.  
+
+We gave a small cash gift to each judge after the experiments.
+
+
+VARIABLES AND VALUES:
+
+site = village (nested within ethnic categories)
+
+0 = Bevondrorano (Mikea village in the north)
+2 = Antaimbalabo (Masikoro village in the north)
+4 = Beangolo (Vezo village in the north)
+6 = Ankililoake (Masikoro village in the south)
+7 = Andravitsazo (Mikea village in the south)
+8 = Faramasay (Vezo village in the south)
+
+
+expcond = experimental condition
+	
+1 = experiment 1, judges classify photos of alters in their everyday clothes, into ethnic categories (Masikoro, Mikea, Vezo)
+2 = experiment 2, judges classify photos of alters purposively dressing and posing as a member of their ethnic group, into ethnic categories (Masikoro, Mikea, Vezo)
+3 = experiment 3, judges classify photos of alters attending the weekly village marketplace, into ethnic categories (Masikoro, Mikea, Vezo)
+4 = experiment 4, judges classify the same photos of alters used in exp 1, according to whom they would most and least want to cooperate with.
+
+
+id = participant id
+
+
+sex = female (0), male (1)
+
+
+agecat1 = researcher-defined age category.  Because informants rarely know their ages, this is a rough classification
+
+0 = young adult:  teens - early 30s, usually corresponding to the first 15 years or so of first marriage (they do not have children old enough to themselves be considered young adults)
+1 = adult:  mid 30s - late 50s.  usually corresponding to having young adult or adult children.
+2 = old adult: 60+, usually corresponding to having no children (but maybe grandchildren) living in the household; often associated with some physical decline in capacity to work.  Considered an “olo be” or elder, a title of prestige.
+
+
+ethn1 = ethnicity (based on residence)
+
+1 = Masikoro: all residents of site=2 (Antaimbalabo) or site=6 (Ankililoake)
+2 = Mikea: all residents of site=0 (Bevondrorano) or site=7 (Andravitsazo)
+3 = Vezo: all residents of site = 4(Beangolo) or site = 8 (Faramasay)
+
+
+magic = person is a diviner (ambiasa), spirit medium (tromba), medium’s assistant (mpanompo tromba) or clan head (mpitankazomanga)
+
+0 = none
+1 = one or more
+
+
+christian: 0 = no, 1 = yes
+
+
+edu = education (years): 0 - 12 indicates years of formal education
+
+
+alter = id of individual in photo
+
+
+y = How did the judge respond to photo?
+
+Experiments  1 - 3:
+1 = classified it as Masikoro
+2 = classified it as Mikea
+3 = classified it as Vezo
+10 = unclassified (judge is unable to classify)
+Experiment 4:
+4 = trust
+5 = mistrust
+
+
+ethn_alter = ethnicity of alter in photo
+
+1 = Masikoro, 2 = Mikea, 3 = Vezo
+
+
+sex_alter = 0 = female, 1 = male

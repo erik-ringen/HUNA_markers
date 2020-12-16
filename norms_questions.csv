@@ -1,0 +1,71 @@
+name,category,question_english,question_malagasy,Responses
+b1_A,Social Organization & Gender,b1.  May people in the same clan marry?,b1.  … laha mifanambaly gn’olo raza raike?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b2_A,Social Organization & Gender,b2.  May cross-cousins marry? (first cousins not in the patrilineal clan).,b2.  … gn’olo manambaly gny foe’dreny (zokin’dreny sa zain-dreny)?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b3_A,Social Organization & Gender,b3.  May a man neglect to do soronanake (rites of filiation)?,b3.  … laha johary raiky tsy manao sononanake e?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b4_A,Social Organization & Gender,b4.  May a man marry a woman who is the age of his mother?,b4.  … laha johary raiky manambaly gn’olo sevake mitovy tao amin’dreniny?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b5_A,Social Organization & Gender,b5.  Can you make an offering to the ancestors of goat ovy or lojy beans if you do not have a cow?,b5.  … laha gn’olo misono gny razany amin gny bengy ovy lojy laha tsy manan’aombe?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b6_A,Social Organization & Gender,b6.  May a woman have multiple husbands?,b6.  … gny sevake manambaly lehilahy maro?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b7_A,Social Organization & Gender,b7.  May small children have play sex so long as the girl does not become pregnant?,b7.  … laha aja kelikely samy mifandranto laha ohatse ka tsy amin’troke gny aja ampela igny?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b8_A,Social Organization & Gender,b8.  May a man neglect to pay brideprice?,b8.  … laha olo raike zay laha tsy manao sori-baly?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b9_A,Social Organization & Gender,b9.  May a woman earn more money than a man?,b9.  … laha gny sevake mahazo drala maro noho gny valiny?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b10_A,Social Organization & Gender,b10.  May a man weave a mat?,b10. … gny johary laha mandrary tihy?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b11_A,Social Organization & Gender,b11.  Would you be sad if one of your daughters became a sarilahy (biological girl who dresses like and acts like a boy)?,b11.  … laha raike amin’anakao sevake reo sarilahy?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b13_A,Social Organization & Gender,b13.  is not normal or not normal for boys and girls to bathe together?,b13… mety miharo fandroa va gny johary ndrake ampela?,0=normal; 1=not normal; 9=don't know; NA=no answer
+c1_A,Foraging Knowledge,c1.  Which has larger tubers on average (A) ovy latahy [the male plant] or (B) ovy somory (the female plant)?,c1.  Ino gny bevata (A) ovy latahy sa (B) ovy somory?,0=latahy; 1=somory; 9=don't know; NA=no answer
+c2_A,Foraging Knowledge,c2. When you dig ovy which is easier (A) to dig a virgin patch or (B) to dig a previously harvested patch (ovy amparahale)?,c2.  Laha mihaly ovy iha aia gny mora (A) mihaly ovy amin tany mbo tsy nihalian’olo ovy sa (B) mihaly ovy amparahale (tany fa fanialia ovy)?,0=virgin patch; 1=revisited patch; 9-don't know; NA=no answer
+c3_A,Foraging Knowledge,c3.  Put these parts of an ovy plant into the correct order:  “firambony” “toalany” “lohany.”,c3. Alaharo gny filaharan’gny ovy: Ambony zizik’ambany:  firambony taolany lohany. (A) Taolany-Firambony-Lohany (B) autre.,0=correct; 1=incorrect; 9=don't know; NA=no answer
+c5_A,Maritime Knowledge,c5.  During what season do you find lots of fia dosoloha?,c5.  Anfotoa manao akory ty ahita ty fia dosoloha?  ,0=traditional new years (lohatao); 1=late dry season; 2=rainy season; 3=mid dry season; 4=early dry season; 5=all seasons; 9=don't know; NA=no answer
+c6_A,Agricultural Knowledge,c6.  When your karaza (Masikoro Mikea Vezo) plants maize how many seeds do you normally plant?,c6. Anareo (Masikoro Mikea or vezo) lafa mamboly tsako firy vihin’tsako anaty lavake raike?,Number
+c7_A,Agricultural Knowledge,c7.  When is the best time to do limbary for vary tivalantao?,c7. Amin’ny fotoa ino nareo manidrake hilimbary amin’ny vary tivalantao?,0=traditional new years (lohatao); 1=late dry season; 2=rainy season; 3=mid dry season; 4=early dry season; 5=all seasons; 9=don't know; NA=no answer
+c8_A,Agricultural Knowledge,c8.  What variety of rice stores best?,c8.  Ino iaby gny karazam-bary farany soa (manahake vary stock) atao tahiry antragno? ,0=rove; 1=kenga; 2=mangato; 3=tsipala; 4=mangafotse; 5=filipiny; 6-tsipala mena; 7=madio; 8-sarifilipiny; 9=don't know; 10=varigasy; 11=bagaolady; 12=varilava; 13=varitanety; NA=no answer
+c10_A,Maritime Knowledge,c10.  Can you make canoe crossbraces (linga varogna) with katrafay (rosewood)?,c10. Mety hanaova varogna na linga va gny katrafay?,0=no; 1=yes; 9=don't know; NA=no answer
+d1_A,Supernatural,d1.  Do the clients of tromba have particularly good harvests ?,d1.  Gny olo tahan-tromba va mahavagno fambolea maro noho gny olo tsy tahan-tromba?,0=no; 1=yes; 9=don't know; NA=no answer
+d2_A,Supernatural,d2.  Do tromba often make particularly good agriculture decisions ?,d2.  Matetike va gny tromba magnome tono-hevitse amin’ny velomampo?,0=no; 1=yes; 9=don't know; NA=no answer
+d3_A,Supernatural,d3.  Sometimes the raza give foraging advice via sikily.,d3.  Kindraikindrake va gny raza magnome hevitse hamonjy sikily laha te hahazo tindroke soa.,0=no; 1=yes; 9=don't know; NA=no answer
+d4_A,Supernatural,d4.  Sometimes the raza give agricultural advice such as which crops to plant and when by sikily. ,d4.   Kindraikindrake va gny raza magnome hevitse mba hamojea sikily mba ahaiza gny fotoa soa hambolea?,0=no; 1=yes; 9=don't know; NA=no answer
+d5_A,Food Taboos,d5.  Are you taboo for sheep?,d5. Faly aondry va iha?,0=no; 1=yes; 9=don't know; NA=no answer
+d6_A,Food Taboos,d6. Are you taboo for quail?,d6.  Faly kibo va iha?,0=no; 1=yes; 9=don't know; NA=no answer
+d7_A,Food Taboos,d7.  Are you taboo for black cattle?,d7.  Faly aombe mainty va iha?,0=no; 1=yes; 9=don't know; NA=no answer
+d8_A,Food Taboos,d8.  Are you taboo for chicken?,d8.  Faly akoho va iha?,0=no; 1=yes; 9=don't know; NA=no answer
+d9_A,Food Taboos,d9.   Are you taboo for a wild bird called tsiloko?,d9. Faly tsiloko va?,0=no; 1=yes; 9=don't know; NA=no answer
+b1_B,Social Organization & Gender,b1.  Would it be normal or strange to you if newlyweds lived with the mother of the bride?,b1 … gny mpivaly vao va laha mipetraky amigny renin’ny ampela agny?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b2_B,Social Organization & Gender,b2.   Could someone marry their parallel cousin (first cousin in same clan) ?,b2-… aha mifanambaly gny anakin’gny mpirahalahy ray?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b3_B,Social Organization & Gender,b3.  It is rare to pay brideprice with goats ovy or lojy.,b3 … aha olo raike manao soritse amy bengy ovy na lojy?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b4_B,Social Organization & Gender,b4.  Would it be normal or strange for a man to have multiple wives ?,b4 … gny johary laha manambaly maro?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b5_B,Social Organization & Gender,b5.  Is it okay for a man to have a wife who is sariampela (a man who dresses like a woman)?,b5 … laha misy johary ta hanambaly olo sary ampela?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b6_B,Social Organization & Gender,b6.  Would it be strange for a woman to drive an oxcart ?,b6 … laha gny sevaky manday sarety?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b7_B,Social Organization & Gender,b7.  Would it be strange to see a woman who is rich in cattle ?,b7 … laha misy sevaky manankanagna aomby?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b8_B,Social Organization & Gender,b8.  Is it okay for a woman to wear short-shorts ?,b8 … laha gny anakanao ampela manday kaliso?,0=normal; 1=not normal; 9=don't know; NA=no answer
+b13_B,Social Organization & Gender,b13.  If a man neglects rites of filiation the children normally remain in their mother’s clan.,b12...laha tsy manao soronanake ny johary mety hangalaky gny razany amin-dreniny va ny ajà?,0=normal; 1=not normal; 9=don't know; NA=no answer
+c1_B,Foraging Knowledge,c1.  Which has flowers and seeds : ovy latahy(the male ovy plant) or ovy somory (the female plant)?,c1- Gny ovy latahy sa gny ovy somory va ro mana voany sy folera?,0=wrong; 1=correct; 9=don't know; NA=no answer
+c2_B,Foraging Knowledge,c2.  When is the best season to do ovy poadoha?,c2- Amy fotoa ino gny soa anaova ovy poadoha?,0=traditional new years (lohatao); 1=late dry season; 2=rainy season; 3=mid dry season; 4=early dry season; 5=all seasons; 9=don't know; NA=no answer
+c3_B,Foraging Knowledge,c3.  How long do you need to dry ovy to make pik’ovy (dried ovy)?,c3- Laha manao pik’ovy atany firy andro vao maiky?,number of days
+c4_B,Agricultural Knowledge,c.4.  When people in your karaza plant manioc how long do they leave the tubers in the ground ?,c4- Laha mamboly balahazo nareo ( Masokoro Mikea Vezo) firy vola vao haly?,number of months
+c5_B,Agricultural Knowledge,c5.  When do you do replant rice for vary foasa (dry season rice)?,c5- Ino gny fotoa soa laha magnetsa vary faosa?,0=traditional new years (lohatao); 1=late dry season; 2=rainy season; 3=mid dry season; 4=early dry season; 5=all seasons; 9=don't know; NA=no answer
+c6_B,Agricultural Knowledge,c6.  What variety of rice produces the most grain ?,c6- Ino gny karazam-bary tena mamoa mare?,0=rove; 1=kenga; 2=mangato; 3=tsipala; 4=mangafotse; 5=filipiny; 6-tsipala mena; 7=madio; 8-sarifilipiny; 9=don't know; 10=varigasy; 11=bagaolady; 12=varilava; 13=varitanety
+c7_B,Agricultural Knowledge,c7.  What variety of manioc is easiest to peel?,c7- Ino gny karazam-balahazo mora ofasa?,0=saritsipala; 1=fitoravy; 2=tsitakatsaombe; 3=mavomomoke; 4=longoasara; 5=karatsake; 6=sarigasy; 7=misaombositse; 8=beambony; 9=don't know; 10=tsy telo; 11=sarilombiry; 12=mangafoty; 13=saritavelo; 14=menaloha; 15=madarasy; 16=behongitse; 17=mangaro; 18=mainty holitse
+c8_B,Maritime Knowledge,c8. Does the fish called valalantaitse school?,c8.  Gny fia valalantaitse (A) fia milongo sa (B) tsy fia milongo?,0=yes; 1=no; 9=don't know; NA=no answer
+c9_B,Maritime Knowledge,c9. Where do you find black-tipped sharks: on the reef or in the large (deep ocean?),c9.  Aia gny ahità gny akio mainty lambosy?  (A) andriake ambony sa (B) andrano lalike?,0=reef; 1=deep sea; 9=don't know; NA=no answer
+c10_B,Maritime Knowledge,c10. What sail position would you use if the wind were from the south and you want to go north?,c10.  Lafa mandeha avaratse andaka misy tsiokantimo ino mampiasanao matetike?  (A) lay panihy? (B) lay manindry (C). lay manenga (D) lay savejoe? (E) lay fonta,0=lay panihy; 1=lay manindry; 2=lay manenga; 3=lay savejoe; 4=lay fonta; 9=don't know; NA=no answer
+d1_B,Supernatural,d1.  Are clients of ambiasa more likely to have big harvests than people who are not clients?,d1- Gny olo taha’ombiasa va mahavokatsy mare noho gny olo tsy tahan’ombiasa?,0=no; 1=yes; 9=don't know; NA=no answer
+d2_B,Supernatural,d2.  Are ambiasa more likely to have big harvests than non-ambiasa?,d2- Gny ombiasa va mahavagno velomam-po?,0=no; 1=yes; 9=don't know; NA=no answer
+d3_B,Supernatural,d3.  Do raza give foraging advice in dreams?,d3- Gny raza va manome torohevitsy amin ‘ny tindroky ?,0=no; 1=yes; 9=don't know; NA=no answer
+d4_B,Supernatural,d4.  Do raza give agricultural advice in dreams for example what crops to plant and when?,d4- Gny raza va manome torohevitsy amy fambolea sy tabiry amin’ny alalan’ny nofy?,0=no; 1=yes; 9=don't know; NA=no answer
+d5_B,Food Taboos,d5. Are you taboo for pig?,d5- Faly koso va iha?,0=no; 1=yes; 9=don't know; NA=no answer
+d6_B,Food Taboos,d6. Are you taboo for goat?,d6- Faly bengy va iha ?,0=no; 1=yes; 9=don't know; NA=no answer
+d7_B,Food Taboos,d7. Are you taboo for cow with red colored back?,d7- Faly aomby vandamena va iha ?,0=no; 1=yes; 9=don't know; NA=no answer
+d8_B,Food Taboos,d8. Are you taboo for a wild bird called sihotse?,d8- Faly sihotsy va iha ?,0=no; 1=yes; 9=don't know; NA=no answer
+d9_B,Food Taboos,d9. Are you taboo for a wild bird called takapala?,d9- Faly takampaly va iha ?,0=no; 1=yes; 9=don't know; NA=no answer
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,c4. Anareo Masikoro lafa mamboly tsako firy vihin’tsako anaty lavake raike?
+,,,,c5. Amin’ny fotoa ino nareo manidrake hilimbary amin’ny vary tivalantao?
+,,,,c6.  Ino iaby gny karazam-bary farany soa (manahake vary stock) atao tahiry antragno? 
+,,,,c7.  Ino iagy gny karazam-balahazo farany lava magnome?

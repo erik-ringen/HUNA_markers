@@ -1,0 +1,90 @@
+Methods and codebook:  data_norms.csv
+
+CONTENTS:
+* INTRODUCTION
+* METHODOLOGY
+* QUESTIONS AND ANSWERS
+* VARIABLES AND VALUES
+
+
+INTRODUCTION:
+In 2018 the field team conducted two versions (A and B) of a knowledge questionnaire (we also refer to this at times as a norms questionnaire, but it is not all norms).  Questions covered many domains.  Here we are working with questions about social organization and gender, subsistence knowledge, supernatural knowledge, and taboos.  Some questions that we asked in interview were dropped from the analysis because of poor external validity (participants didn't understand them or had multiple, conflicting understandings) or inconsistent reporting of the results.
+
+
+METHODOLOGY:
+We intended the knowledge questionnaire as a preliminary instrument, its purpose being to field test questions.  Because we could imagine alternative ways to pose the same question, we constructed two versions, and A version and a B version.  Generally speaking, we administered version A to a different set of informants than version B, but there could be a few cases of the same person doing both versions.  We conducted the experiments 2 Masikoro villages (Antaimbalabo and Tsiloakarivo), two Mikea communities (Bevondrorano and the Namonte Basin habitations), and two Vezo villages (Beangolo and Ampasilava).  N=25 adults per version per site, or 150 per version.
+
+
+QUESTIONS AND ANSWERS:
+The individual itmes (questions) and the potential responses are summarized in an attached file called norms_questions.csv.
+
+
+VARIABLES AND VALUES:
+
+site = village (nested within ethnic categories)
+
+0 = Bevondrorano (Mikea village)
+1 = Namonte (Mikea village)
+2 = Antaimbalabo (Masikoro village)
+3 = Tsiloakarivo (Masikoro village)
+4 = Beangolo (Vezo village)
+5 = Ampasilava (Vezo village)
+
+
+id = participant id
+
+sex = female (0), male (1)
+
+
+agecat1 = researcher-defined age category.  Because informants rarely know their ages, this is a rough classification
+
+0 = young adult:  teens - early 30s, usually corresponding to the first 15 years or so of first marriage (they do not have children old enough to themselves be considered young adults)
+1 = adult:  mid 30s - late 50s.  usually corresponding to having young adult or adult children.
+2 = old adult: 60+, usually corresponding to having no children (but maybe grandchildren) living in the household; often associated with some physical decline in capacity to work.  Considered an “olo be” or elder, a title of prestige.
+
+
+ethn1 = ethnicity (based on residence)
+
+1 = Masikoro: all residents of site=2 (Antaimbalabo) or site=3 (Tsiloakarivo)
+2 = Mikea: all residents of site=0 (Bevondrorano) or site=1 (Namonte)
+3 = Vezo: all residents of site = 4(Beangolo) or site=5 (Ampasilava)
+
+
+birthplace = natal environment; the type of environment individual was born in, and presumably, grew up in and learned subsistence skills in.
+
+forest
+forest-Savanna edge
+Savanna
+Mudflats (tidal plain)
+City (Toliara or Morombe)
+Beach 
+
+
+magic = person is a diviner (ambiasa), spirit medium (tromba), medium’s assistant (mpanompo tromba) or clan head (mpitankazomanga)
+
+0 = none
+1 = one or more
+
+
+christian: 0 = no, 1 = yes
+
+
+edu = education (years): 0 - 12 indicates years of formal education
+
+
+name = question
+
+
+y = response to norm/knowledge questions
+
+
+category = domain of knoweldge
+
+Social Organization
+Foraging knowledge
+Maritime knowledge
+Agricultural knowledge
+Supernatural
+Food taboos
+
+
